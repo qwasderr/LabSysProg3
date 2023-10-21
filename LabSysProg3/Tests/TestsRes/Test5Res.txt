@@ -1,0 +1,51 @@
+One line comments:
+// You can also cast char to int
+Libraries:
+Multiline comments:
+Floats:
+Integers:
+Hexes:
+Reserved words:
+public
+class
+public
+static
+void
+char
+int
+char
+int
+int
+int
+Operators:
+=
+=
+=
++
++
+Brackets:
+{
+(
+)
+{
+(
+)
+(
+)
+(
+)
+}
+}
+Wrong symbols:
+; missed error:
+Variable identification:
+char ch = 'a'
+int ascii = ch
+int castAscii = (int) ch
+Strings:
+"The ASCII value of "
+" is: "
+"The ASCII value of "
+" is: "
+Chars:
+'a'

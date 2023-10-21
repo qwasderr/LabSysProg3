@@ -1,0 +1,42 @@
+One line comments:
+// start of block
+// end of block
+Libraries:
+Multiline comments:
+Floats:
+Integers:
+Hexes:
+Reserved words:
+class
+public
+static
+void
+if
+Operators:
+=
+==
+Brackets:
+{
+(
+)
+{
+(
+)
+{
+(
+)
+(
+)
+}
+}
+}
+Wrong symbols:
+; missed error:
+Variable identification:
+String band = "Beatles"
+Strings:
+"Beatles"
+"Beatles"
+"Hey "
+"Jude!"
+Chars:

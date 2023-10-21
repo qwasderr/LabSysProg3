@@ -1,0 +1,71 @@
+One line comments:
+// declare variables
+// addition operator
+// subtraction operator
+// multiplication operator
+// division operator
+// modulo operator
+Libraries:
+Multiline comments:
+Floats:
+Integers:
+12
+5
+Hexes:
+Reserved words:
+class
+public
+static
+void
+int
+Operators:
+=
+=
++
++
++
+-
++
+*
++
+/
++
+%
+Brackets:
+{
+(
+)
+{
+(
+(
+)
+)
+(
+(
+)
+)
+(
+(
+)
+)
+(
+(
+)
+)
+(
+(
+)
+)
+}
+}
+Wrong symbols:
+; missed error:
+Variable identification:
+int a = 12, b 
+Strings:
+"a + b = "
+"a - b = "
+"a * b = "
+"a / b = "
+"a % b = "
+Chars:

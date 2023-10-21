@@ -1,0 +1,98 @@
+One line comments:
+// one line comment
+Libraries:
+ java.util.Scanner
+Multiline comments:
+/*
+Multiline comment
+*/
+Floats:
+3.14
+1E-5
+Integers:
+5
+2
+3
+2
+2
+2
+1
+Hexes:
+0xFF
+0X3C5
+Reserved words:
+import
+class
+public
+static
+void
+int
+if
+for
+int
+Operators:
+*
+*
+/
+=
+=
+=
+=
+=
+-
+=
+=
+/
+++
+--
+==
++=
+-=
+=
+=
+=
+=
+=
+<=
+++
+Brackets:
+{
+(
+)
+{
+(
+)
+{
+(
+)
+}
+(
+)
+{
+(
+)
+}
+}
+}
+Wrong symbols:
+; missed error:
+'
+Variable identification:
+int n = 5
+var hex1=0xFF
+var hex2=0X3C5
+var float1=3.14
+var float2=1E-5
+var t5=2
+var char1='\t'
+var char2='b'
+var char3='c'
+var notchar='df'
+int i = 1
+Strings:
+"Java isn't fun"
+"Java is fun"
+Chars:
+'\t'
+'b'
+'c'

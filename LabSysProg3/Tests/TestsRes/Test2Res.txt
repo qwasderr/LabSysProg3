@@ -1,0 +1,45 @@
+One line comments:
+// add two numbers
+Libraries:
+Multiline comments:
+Floats:
+Integers:
+10
+20
+Hexes:
+Reserved words:
+class
+public
+static
+void
+int
+int
+int
+Operators:
+=
+=
+=
++
++
++
++
++
+Brackets:
+{
+(
+)
+{
+(
+)
+}
+}
+Wrong symbols:
+; missed error:
+Variable identification:
+int first = 10
+int second = 20
+int sum = first + second
+Strings:
+" + "
+" = "
+Chars:

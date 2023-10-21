@@ -1,0 +1,30 @@
+import java.util.Scanner;
+/*
+Multiline comment
+*/
+class Main {
+  public static void main(String[] args) {
+int n = 5;
+var hex1=0xFF;
+var hex2=0X3C5;
+var float1=3.14;
+var float2=1E-5;
+var t5=2;
+k=k/3;
+    // one line comment
+++n;
+--n;
+if (n==2){
+System.out.println("Java isn't fun");
+}
+n+=2;
+n-=2;
+var char1='\t';
+var char2='b';
+var char3='c';
+var notchar='df'
+    for (int i = 1; i <= n; ++i) {
+      System.out.println("Java is fun");
+    }
+  }
+}
